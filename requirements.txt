@@ -1,0 +1,12 @@
+streamlit
+requests
+beautifulsoup4
+newspaper3k
+reportlab
+Pillow
+PyPDF2
+langchain
+crewai
+scikit-learn
+pandas
+openai
