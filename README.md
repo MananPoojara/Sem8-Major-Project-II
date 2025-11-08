@@ -1,4 +1,3 @@
-# Sem8-Major-Project-II
 # Multi-Agent Cold Case Intelligence (Review 1)
 
 ## Goal
